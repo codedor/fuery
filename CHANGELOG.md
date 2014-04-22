@@ -1,4 +1,4 @@
-## 0.1.0 (WIP)
+## 0.1.0 (2014-04-22)
 
 * Add context property the queued functions will be run in
 
